@@ -5,10 +5,10 @@ date: "25 janvier,2022"
 
 ---
 
-[Visualization(RPubs)](https://rpubs.com/AODiakite/mapcovid-19)
+
 
 ## R codes ( Using plotly ) 
-
+[Visualization(RPubs)](https://rpubs.com/AODiakite/mapcovid-19)
 [Data source](https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data).
 
 
