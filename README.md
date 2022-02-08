@@ -2,6 +2,7 @@
 title: "COVID-19 MAP"
 author: "ABDOUL OUDOUSS DIAKITE"
 date: "25 janvier,2022"
+lien: https://rpubs.com/AODiakite/mapcovid-19
 
 ---
 
